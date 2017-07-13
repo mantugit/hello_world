@@ -1,2 +1,3 @@
 # hello_world
-This is the demo for starting git repository
+this is the copy repo.
+it will be added to the main branch
